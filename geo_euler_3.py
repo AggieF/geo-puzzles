@@ -34,4 +34,4 @@ print(D) #0
 print(g(E)) #8
 print(g(F)) #834
 
-# Coordinates: N 52°10.877  E 000°08.834
+# Coordinates: N 52°10.877'  E 000°08.834'

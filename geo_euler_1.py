@@ -20,5 +20,4 @@ E = euler_one(d) + euler_one(e)
 
 print (euler_one(e))
 
-#print(N) #5212178
-#print(E) #7141
+#Coordinates: N 52°12.178' E 00°07.141'
